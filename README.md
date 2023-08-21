@@ -3,8 +3,11 @@
 # Install the required prerequisites
 
 sudo apt install python3-pip
+
 sudo python3 -m pip install thehive4py 
+
 sudo python3 -m pip install Flask
+
 sudo python3 -m pip install requests
 
 # Move to the directory that you would like to download the folder in:
