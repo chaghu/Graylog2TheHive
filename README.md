@@ -26,7 +26,9 @@ cp graylog2thehive.service /etc/systemd/system
 #Enable and start the service
 
 sudo systemctl daemon-reload
+
 sudo systemctl enable graylog2thehive.service
+
 sudo systemctl start graylog2thehive.service
 
 
