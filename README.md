@@ -1,5 +1,4 @@
-#Create alerts in The Hive from your Graylog alerts, to be turned into Hive cases.
-#Simple Python flask app that runs as a web server, and accepts POST requests from your Graylog notifications.
+#Create alerts in The Hive from your Graylog alerts, to be turned into Hive cases.Simple Python flask app that runs as a web server, and accepts POST requests from your Graylog notifications.
 
 #Install the required prerequisites
 sudo apt install python3-pip
