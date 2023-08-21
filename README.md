@@ -32,3 +32,6 @@ sudo systemctl enable graylog2thehive.service
 sudo systemctl start graylog2thehive.service
 
 
+Credit goes to the original graylog2thehive(@ReconInfoSec) project and @H2Cyber for (most of) the code.
+
+
